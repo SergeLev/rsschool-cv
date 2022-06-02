@@ -9,9 +9,6 @@
 <b> E-mail: </b> klimber37@gmail.com
 
 <b> Telegram: </b> @BY_Klimber
-
-
-
 ---
 ## About myself: 
 I am 37 years old, I am from Minsk (Belarus).
