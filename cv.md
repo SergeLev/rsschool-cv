@@ -3,6 +3,16 @@
 # Siarhei Levashou # 
 ## Junior Frontend Developer ##
 ---
+## Contact information: ##
+<b> Phone number: </b> +375296222655
+
+<b> E-mail: </b> klimber37@gmail.com
+
+<b> Telegram: </b> @BY_Klimber
+
+
+
+---
 ## About myself: 
 I am 37 years old, I am from Minsk (Belarus).
 Married, two children (10 & 1 y.o.).
