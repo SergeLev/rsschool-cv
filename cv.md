@@ -32,7 +32,8 @@ Add numbers 32, 45, 50 starting from the index 3 to the array.
 Add number 5 to the beginning of the array.
 Display the length of the array in the console.
 
-```var numArray = []; 
+```
+var numArray = []; 
 for (var i=10; i <= 20; i++) {
   numArray.push(i);
  }
