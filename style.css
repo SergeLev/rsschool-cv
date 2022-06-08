@@ -1,1 +1,90 @@
+body {
+    background-color: rgb(123, 131, 137);
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+}
 
+.round {
+    border-radius: 250px;
+    box-shadow: 0 0 0 2px rgb(176, 184, 192), 0 0 13px #333;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    }
+
+.text {
+    color: rgb(56, 32, 76);
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+.navigation {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 0 20px;
+    line-height: 50px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.about-text { 
+    text-indent: 2em; 
+    text-align: justify; 
+}
+
+.h1 {
+    color: rgb(19, 19, 81);
+}
+
+.code_example {
+    background-color: rgb(176, 184, 192);
+    font-weight: bold;
+}
+
+.growing {
+    transition: 1.5s; 
+   }
+
+.growing:hover {
+    transform: scale(3.5); 
+}
+
+h1,
+h2,
+h3,
+.footer {
+       text-align:center;
+}
+
+.list {
+    font-family: cursive; 
+    font-weight: bold;
+}
+
+.header,
+.main,
+.footer {
+    background-color: rgb(176, 184, 192);
+    border-radius: 10px;
+}
+
+.test-result span{
+    visibility: hidden;
+    position: absolute;
+    top: 1200px;
+}
+
+.test-result:hover span{
+    visibility: visible;
+
+}
+
+.minsk-footer {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial;
+}
